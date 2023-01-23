@@ -18,6 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyklopov94&layout=compact)](https://github.com/sergeyklopov94/github-readme-stats)
 
-### Для посетителей
+### Дополнительная информация
 
 Вы можете ознакомится с моими учебными проектами по ссылкам, находящимся в файле README.md каждого репозитория. Спасибо за внимание!
