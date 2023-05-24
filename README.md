@@ -10,6 +10,8 @@
 - HTML
 - CSS
 - JavaScript
+- React
+- Rest API
 - Git
 - Webpack
 - NPM
